@@ -1,0 +1,5 @@
+drive car;
+go to friend;
+hang out;
+say good bye;
+go home;
